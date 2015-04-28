@@ -1,0 +1,17 @@
+body {
+  background: #e9eaed;
+}
+
+#canvas {
+  width: 265px;
+  height: 265px;
+  margin: 35px auto 0;
+  background: white;
+}
+
+#slider {
+  height: 265px;
+  top: 35px;
+  position: absolute;
+  right: 25px;
+}
